@@ -1,0 +1,261 @@
+1607128851546	geckodriver	INFO	Listening on 127.0.0.1:64336
+1607128854639	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ivan\\AppData\\Local\\Temp\\rust_mozprofileMDoCON"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607128856232	Marionette	INFO	Listening on port 64345
+1607128856692	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 2839 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 2839 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://bestbuycanada.my.salesforce.com/embeddedservice/5.0/frame/broadcast.esw.min.js, line 3: TypeError: this.storage is undefined
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 1660 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 1660 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+Exiting due to channel error.
+Listening on 127.0.0.1:51324
+1607130069073	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ivan\\AppData\\Local\\Temp\\rust_mozprofilechs4rF"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607130070453	Marionette	INFO	Listening on port 51332
+1607130070602	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 3763 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 3763 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://bestbuycanada.my.salesforce.com/embeddedservice/5.0/frame/broadcast.esw.min.js, line 3: TypeError: this.storage is undefined
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UBVKjIgL52oAupqoau5bmS4QFq3D8gEqQe5TpWWG23I.js line 1 > eval line 5552 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UBVKjIgL52oAupqoau5bmS4QFq3D8gEqQe5TpWWG23I.js line 1 > eval line 5552 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://bestbuycanada.my.salesforce.com/embeddedservice/5.0/frame/broadcast.esw.min.js, line 3: TypeError: this.storage is undefined
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 1074 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 1074 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://bestbuycanada.my.salesforce.com/embeddedservice/5.0/frame/broadcast.esw.min.js, line 3: TypeError: this.storage is undefined
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 3031 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 3031 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://bestbuycanada.my.salesforce.com/embeddedservice/5.0/frame/broadcast.esw.min.js, line 3: TypeError: this.storage is undefined
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 7430 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 7430 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://bestbuycanada.my.salesforce.com/embeddedservice/5.0/frame/broadcast.esw.min.js, line 3: TypeError: this.storage is undefined
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 7798 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 7798 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://bestbuycanada.my.salesforce.com/embeddedservice/5.0/frame/broadcast.esw.min.js, line 3: TypeError: this.storage is undefined
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UBVKjIgL52oAupqoau5bmS4QFq3D8gEqQe5TpWWG23I.js line 1 > eval line 4475 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UBVKjIgL52oAupqoau5bmS4QFq3D8gEqQe5TpWWG23I.js line 1 > eval line 4475 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://bestbuycanada.my.salesforce.com/embeddedservice/5.0/frame/broadcast.esw.min.js, line 3: TypeError: this.storage is undefined
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 6923 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 6923 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://bestbuycanada.my.salesforce.com/embeddedservice/5.0/frame/broadcast.esw.min.js, line 3: TypeError: this.storage is undefined
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UBVKjIgL52oAupqoau5bmS4QFq3D8gEqQe5TpWWG23I.js line 1 > eval line 4410 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UBVKjIgL52oAupqoau5bmS4QFq3D8gEqQe5TpWWG23I.js line 1 > eval line 4410 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://bestbuycanada.my.salesforce.com/embeddedservice/5.0/frame/broadcast.esw.min.js, line 3: TypeError: this.storage is undefined
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1607130356304	Marionette	INFO	Stopped listening on port 51332
+JavaScript error: https://bestbuycanada.my.salesforce.com/embeddedservice/5.0/frame/broadcast.esw.min.js, line 3: TypeError: this.storage is undefined
+1607130357026	geckodriver	INFO	Listening on 127.0.0.1:51680
+1607130360048	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ivan\\AppData\\Local\\Temp\\rust_mozprofileOkQldR"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607130361387	Marionette	INFO	Listening on port 51689
+1607130361599	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 4956 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 4956 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://bestbuycanada.my.salesforce.com/embeddedservice/5.0/frame/broadcast.esw.min.js, line 3: TypeError: this.storage is undefined
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UBVKjIgL52oAupqoau5bmS4QFq3D8gEqQe5TpWWG23I.js line 1 > eval line 1801 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UBVKjIgL52oAupqoau5bmS4QFq3D8gEqQe5TpWWG23I.js line 1 > eval line 1801 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://bestbuycanada.my.salesforce.com/embeddedservice/5.0/frame/broadcast.esw.min.js, line 3: TypeError: this.storage is undefined
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UBVKjIgL52oAupqoau5bmS4QFq3D8gEqQe5TpWWG23I.js line 1 > eval line 6114 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UBVKjIgL52oAupqoau5bmS4QFq3D8gEqQe5TpWWG23I.js line 1 > eval line 6114 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://bestbuycanada.my.salesforce.com/embeddedservice/5.0/frame/broadcast.esw.min.js, line 3: TypeError: this.storage is undefined
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 1778 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 1778 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://bestbuycanada.my.salesforce.com/embeddedservice/5.0/frame/broadcast.esw.min.js, line 3: TypeError: this.storage is undefined
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 2087 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 2087 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://bestbuycanada.my.salesforce.com/embeddedservice/5.0/frame/broadcast.esw.min.js, line 3: TypeError: this.storage is undefined
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UBVKjIgL52oAupqoau5bmS4QFq3D8gEqQe5TpWWG23I.js line 1 > eval line 3102 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UBVKjIgL52oAupqoau5bmS4QFq3D8gEqQe5TpWWG23I.js line 1 > eval line 3102 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://bestbuycanada.my.salesforce.com/embeddedservice/5.0/frame/broadcast.esw.min.js, line 3: TypeError: this.storage is undefined
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UBVKjIgL52oAupqoau5bmS4QFq3D8gEqQe5TpWWG23I.js line 1 > eval line 4 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UBVKjIgL52oAupqoau5bmS4QFq3D8gEqQe5TpWWG23I.js line 1 > eval line 4 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://bestbuycanada.my.salesforce.com/embeddedservice/5.0/frame/broadcast.esw.min.js, line 3: TypeError: this.storage is undefined
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UBVKjIgL52oAupqoau5bmS4QFq3D8gEqQe5TpWWG23I.js line 1 > eval line 6435 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UBVKjIgL52oAupqoau5bmS4QFq3D8gEqQe5TpWWG23I.js line 1 > eval line 6435 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://bestbuycanada.my.salesforce.com/embeddedservice/5.0/frame/broadcast.esw.min.js, line 3: TypeError: this.storage is undefined
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 297 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/PbZvCEkorD5rxjWOexle1_regFmuc5-vrUA2zacPm4s.js line 1 > eval line 297 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://bestbuycanada.my.salesforce.com/embeddedservice/5.0/frame/broadcast.esw.min.js, line 3: TypeError: this.storage is undefined
+JavaScript error: https://bestbuycanada.my.salesforce.com/embeddedservice/5.0/frame/broadcast.esw.min.js, line 3: TypeError: this.storage is undefined
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN048473b7b22f4c66a2858404e3c8219d.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1607130981673	Marionette	INFO	Stopped listening on port 51689
+1607130982361	geckodriver	INFO	Listening on 127.0.0.1:52100
+1607130985407	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ivan\\AppData\\Local\\Temp\\rust_mozprofileIepk2q"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607130986489	Marionette	INFO	Listening on port 52108
+1607130986960	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Listening on 127.0.0.1:52165
+1607131128561	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ivan\\AppData\\Local\\Temp\\rust_mozprofileGMa4GR"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607131129852	Marionette	INFO	Listening on port 52173
+1607131130118	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607380956222	geckodriver	INFO	Listening on 127.0.0.1:56377
+1607380959037	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ivan\\AppData\\Local\\Temp\\rust_mozprofilene3wl4"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607380961962	Marionette	INFO	Listening on port 56385
+1607380962248	Marionette	WARN	TLS certificate errors will be ignored for this session
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1607382116597	Marionette	INFO	Stopped listening on port 56385
